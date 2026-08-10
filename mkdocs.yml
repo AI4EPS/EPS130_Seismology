@@ -1,0 +1,44 @@
+site_name: "EPS130 Introduction to Seismology"
+site_description: "Course materials for EPS130 Introduction to Seismology at UC Berkeley"
+site_author: "Weiqiang Zhu"
+docs_dir: docs/
+repo_name: "AI4EPS/EPS130_Seismology"
+repo_url: "https://github.com/AI4EPS/EPS130_Seismology"
+edit_uri: blob/main/docs/
+
+nav:
+  - Overview: README.md
+  - Wave Equation:
+    - Lecture: notebooks/wave_equation_lecture.ipynb
+    - Exercise: notebooks/wave_equation_exercise.ipynb
+  - Travel Time:
+    - Lecture: notebooks/travel_time_lecture.ipynb
+    - Exercise: notebooks/travel_time_exercise.ipynb
+  - Tomography:
+    - Lecture: notebooks/tomography_lecture.ipynb
+    - Exercise: notebooks/tomography_exercise.ipynb
+  - Seismometers:
+    - Lecture: notebooks/seismometers_lecture.ipynb
+    - Exercise: notebooks/seismometers_exercise.ipynb
+  - Earthquake Location:
+    - Lecture: notebooks/earthquake_location_lecture.ipynb
+    - Exercise: notebooks/earthquake_location_exercise.ipynb
+  - Earthquake Magnitude:
+    - Lecture: notebooks/earthquake_magnitude_lecture.ipynb
+    - Exercise: notebooks/earthquake_magnitude_exercise.ipynb
+  - Ambient Noise:
+    - Lecture: notebooks/ambient_noise_lecture.ipynb
+    - Exercise: notebooks/ambient_noise_exercise.ipynb
+  - Focal Mechanism:
+    - Lecture: notebooks/focal_mechanism_lecture.ipynb
+    - Exercise: notebooks/focal_mechanism_exercise.ipynb
+  - Earthquake Statistics:
+    - Lecture: notebooks/earthquake_statistics_lecture.ipynb
+    - Exercise: notebooks/earthquake_statistics_exercise.ipynb
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True

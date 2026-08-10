@@ -1,0 +1,15 @@
+# EPS130 Seismology
+
+Course materials for EPS130 Introduction to Seismology at UC Berkeley, following Peter Shearer's *Introduction to Seismology*.
+
+## Notebooks
+
+- [Wave Equation](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/wave_equation_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/wave_equation_exercise.ipynb)
+- [Travel Time](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/travel_time_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/travel_time_exercise.ipynb)
+- [Tomography](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/tomography_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/tomography_exercise.ipynb)
+- [Seismometers](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/seismometers_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/seismometers_exercise.ipynb)
+- [Earthquake Location](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/earthquake_location_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/earthquake_location_exercise.ipynb)
+- [Earthquake Magnitude](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/earthquake_magnitude_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/earthquake_magnitude_exercise.ipynb)
+- [Ambient Noise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/ambient_noise_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/ambient_noise_exercise.ipynb)
+- [Focal Mechanism](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/focal_mechanism_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/focal_mechanism_exercise.ipynb)
+- [Earthquake Statistics](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/earthquake_statistics_lecture.ipynb) | [Exercise](https://colab.research.google.com/github/AI4EPS/EPS130_Seismology/blob/main/docs/notebooks/earthquake_statistics_exercise.ipynb)
