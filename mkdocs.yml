@@ -42,3 +42,8 @@ theme:
 plugins:
   - mkdocs-jupyter:
       ignore_h1_titles: True
+
+extra:
+  analytics:
+    provider: google
+    property: G-QCRJ79ZYWS
